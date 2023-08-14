@@ -1,3 +1,43 @@
+@import url(kuvat/testikuva1.jpg);
+
 .headerteksti {
-    background-color: aquamarine;
+    font-family:monospace;
+    align-items: center;
+    align-content: center;
+    height: 135px;
+    
+}
+
+h1 {
+    color: rgb(216, 255, 246);
+    font-size: 40px;
+    align-items: center;
+    align-content: center;
+    background-image: url("kuvat/background-test1.png");
+    background-size: 100%;
+}
+
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+.introduction {
+    font-family: monospace;
+    font-size: 50px;
+    color: rgb(49, 158, 221);
+
+}
+.img1{
+    width: 670px;
+    height: 592px;
+}
+
+.img2 {
+    width: 600px;
+    height: 592px;
+}
+
+.img3 {
+    width: 530px;
+    height: 592px;
 }
