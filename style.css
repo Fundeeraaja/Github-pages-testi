@@ -23,7 +23,7 @@ body {
 
 .introduction {
     font-family: monospace;
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(49, 158, 221);
 
 }
@@ -40,4 +40,29 @@ body {
 .img3 {
     width: 530px;
     height: 592px;
+}
+
+.img4 {
+    width: 550px;
+    height: 592px;
+}
+
+.img5 {
+    width: 570px;
+    height: 592px;
+}
+
+.img6 {
+    width: 550px;
+    height: 592px;
+}
+
+
+
+h2 {
+    font-family: monospace;
+    font-size: 50px;
+    color: rgb(49, 158, 221);
+    font-weight: 400;
+
 }
