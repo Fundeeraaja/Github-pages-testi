@@ -64,16 +64,12 @@ body {
 
 .AW {
     font-family: monospace;
-    font-size: 0px;
-    
-    color: rgba(49, 158, 221, 0);
-    font-weight: 400;
+    font-size: 100px;
+    color: rgb(49, 158, 221);
+    font-weight: bolder;
     text-align: center;
-    background-image: url("kuvat/art-wall.webp");
-    background-size: 50%;
-    background-repeat: no-repeat;
     height: 200px;
-    margin-left: 670px;
+    margin-left: 40px;
     
 
 }
@@ -138,3 +134,4 @@ body {
       max-width: 100%;
     }
   }
+
